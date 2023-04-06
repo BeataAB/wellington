@@ -1,0 +1,14 @@
+.breed {
+    margin: 150px 0px;
+}
+
+.title {
+    font-weight: bold;
+    color: black;
+    text-decoration: underline dotted;
+    font-family: "Tillana";
+}
+
+.link {
+    margin: 25px 0px;
+}
